@@ -6,6 +6,9 @@ public class A {
 	public void liugou(){
 		d.saniao();
 	}
+	public void dougou() {
+		System.out.println("ถบนท");
+	}
 	public Dog getD() {
 		return d;
 	}
