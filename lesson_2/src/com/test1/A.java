@@ -9,6 +9,9 @@ public class A {
 	public void dougou() {
 		System.out.println("ถบนท");
 	}
+	public void dagou() {
+		System.out.println("abcd");
+	}
 	public Dog getD() {
 		return d;
 	}
